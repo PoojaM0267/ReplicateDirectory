@@ -1,0 +1,29 @@
+﻿.bodyContent
+{
+    margin-top:10%;
+}
+.navbarBg
+{
+    background-color: #246b9c !important;
+}
+
+.textWhite
+{
+    color:white !important;
+}
+
+.uploadFormContainer
+{
+    border: solid 2px black;
+}
+#fileUploadForm
+{
+    padding: 5%;
+}
+.innerContainerDiv{
+    padding: 5%;
+}
+.statusMsgLbl
+{
+    display: none;
+}
